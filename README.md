@@ -1,4 +1,4 @@
 # c-codes
 BASIC TO ADVANCD C PROGRAMS.
 <br>
-Author - Shailendra Chauhan 
+Author - Shailendra Chauhan (author)
