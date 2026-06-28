@@ -8,8 +8,8 @@ int main(){
     for (int i=0; i<5; i++){
         product = product*arr[i];
     }
-
-    printf("product of array is : %d", product);
+    
+    printf("product of array is : %dd", product);
 
     return 0;
 }
