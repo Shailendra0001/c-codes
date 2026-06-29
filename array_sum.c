@@ -1,14 +1,9 @@
 #include<stdio.h>
 int main(){
-
     int arr[]={1,2,3,4,5};
-    int product = 1;
-
+    int sum =0;
     for (int i=0; i<5; i++ ){
-      product= product * arr[i];
+        sum = sum + arr[i];
     }
-
-    printf("product of array is : %d",product);
-
-        return 0;
+    return 0;
 }

@@ -1,6 +1,6 @@
 #include<stdio.h>
 void swap(int *a, int *b);
-
+ 
 int main(){
     int x= 12, y=15;
     swap(&x,&y);
