@@ -5,7 +5,7 @@ int main(){
     scanf("%d", &a);
     printf("enter b : ");
     scanf("%d", &b);
-    int c;
+    int c; 
     printf("enter c :");
     scanf("%d",&c);
     sum = a + b + c;
