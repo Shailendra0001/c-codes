@@ -2,8 +2,10 @@
 int main(){
 
     int cost, quantity, bill ;
+
     printf("enter cost : ");
     scanf("%d",&cost);
+
     printf("enter quantity : ");
     scanf("%d",&quantity);
 
