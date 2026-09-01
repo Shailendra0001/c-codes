@@ -2,6 +2,6 @@
 int main(){
 
     char ch='b';
-    printf("%c",ch);
+    printf("%c",ch); 
     return 0;
 }
