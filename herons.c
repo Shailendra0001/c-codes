@@ -1,5 +1,5 @@
 #include<stdio.h>
- # include<math.h>
+ # include<math.h> 
 int main(){
     float a, b, c, s, ar;
     printf("enter 3 sides of triangle : ");
